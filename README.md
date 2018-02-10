@@ -10,7 +10,7 @@ Description:
 
 Input:
 
-    Download data from link
+    Download zip code data (Zip_time_series.csv) from link
     State name or zip code
     House types	
 
